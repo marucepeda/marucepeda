@@ -1,6 +1,8 @@
 # I'm Maru
 
+
 ## About
+
 
 I am transitioning into Data Science, with a focus on data validation, automation, and process optimization. My background in business operations, and administration allows me to approach challenges with a structured and problem-solving mindset.
 
@@ -8,6 +10,7 @@ I have worked on AI and data quality projects, ensuring accuracy and consistency
 
 
 ## Key Skills:
+
 
 ✅ Data Quality & Validation
 
@@ -17,6 +20,7 @@ I have worked on AI and data quality projects, ensuring accuracy and consistency
 
 
 ## Additional Information:
+
 
 🌍 Remote Experience: Collaborating on AI-driven projects with international teams.
 

@@ -4,9 +4,9 @@
 ## About
 
 
-I am transitioning into Data Science, with a focus on data validation, automation, and process optimization. My background in business operations, and administration allows me to approach challenges with a structured and problem-solving mindset.
+I’m a professional transitioning into Data Science and AI, leveraging a broad background in operations, administration, and cross-functional problem-solving. Throughout my career, I’ve navigated complex workflows, connected teams, and uncovered insights from operational data, customer needs, and marketing dynamics—sparking my fascination with the power of data to drive smarter decisions.
 
-I have worked on AI and data quality projects, ensuring accuracy and consistency in AI models while exploring automation to enhance efficiency. Currently, I am expanding my expertise in AI and data science, seeking opportunities to apply my skills in dynamic and innovative environments.
+Known for reliability, adaptability, and a proactive approach, I thrive in fast-paced environments and take pride in making processes smoother and more impactful for all stakeholders. I’m eager to apply my analytical skills to deliver actionable insights, optimize processes, and contribute to innovative data-driven projects.
 
 
 ## Key Skills:
@@ -16,7 +16,11 @@ I have worked on AI and data quality projects, ensuring accuracy and consistency
 
 ✅ Process Optimization & Automation
 
-✅ Data Analysis & Problem-Solving
+✅ Data Analysis, Python, SQL, Power BI, Advanced Excel
+
+✅ Data Visualization & Cleaning
+
+✅ AI & Machine Learning Basics
 
 
 ## Additional Information:

@@ -4,32 +4,12 @@
 ## About
 
 
-I’m a professional transitioning into Data Science and AI, leveraging a broad background in operations, administration, and cross-functional problem-solving. Throughout my career, I’ve navigated complex workflows, connected teams, and uncovered insights from operational data, customer needs, and marketing dynamics—sparking my fascination with the power of data to drive smarter decisions.
+For most of my career, I worked in operations, administration, logistics, customer support, and digital marketing.
 
-Known for reliability, adaptability, and a proactive approach, I thrive in fast-paced environments and take pride in making processes smoother and more impactful for all stakeholders. I’m eager to apply my analytical skills to deliver actionable insights, optimize processes, and contribute to innovative data-driven projects.
+I've always been curious about how organizations work behind the scenes: how information moves across teams, where processes get stuck, and what can be improved.
 
+As I explored those questions, data kept appearing again and again as part of the answer.
 
-## Key Skills:
+Today, I am pursuing a degree in Data Science for Organizations at the National University of La Plata (UNLP), combining my operational background with analytical skills and a growing interest in data, automation, and AI.
 
-
-✅ Data Quality & Validation
-
-✅ Process Optimization & Automation
-
-✅ Data Analysis, Python, SQL, Power BI, Advanced Excel
-
-✅ Data Visualization & Cleaning
-
-✅ AI & Machine Learning Basics
-
-
-## Additional Information:
-
-
-🌍 Remote Experience: Collaborating on AI-driven projects with international teams.
-
-📚 Academic Focus: Data Science & AI – continuously learning and improving.
-
-💡 Interests: Technology, automation, and efficiency-driven solutions.
-
-🌱 Hobbies: Yoga, cycling, and DIY projects.
+I am looking for part-time opportunities where I can continue learning, contribute to real projects, and keep building this professional path.

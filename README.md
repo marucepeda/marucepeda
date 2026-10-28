@@ -60,7 +60,6 @@ Both outcomes are considered learning.
 - Data analysis and practical business intelligence.
 - Python, APIs, and software development.
 - AI applications and workflow automation.
-- Projects that solve actual problems instead of just looking impressive in a portfolio.
 - Turning years of operational experience into technical skills.
 
 Some projects will be useful. Some will be educational. Some may begin with the phrase *"Surely there's a better way to do this."*
@@ -95,13 +94,7 @@ Those are usually the dangerous ones.
 
 ## 📜 Development philosophy
 
-I don't need to know everything.
-
-I need to understand the problem, ask better questions, learn what I'm missing, and keep working until something makes sense.
-
-I'm not here to pretend I've mastered everything I'm learning. I'm here to learn by building, document what I discover, and make things that are genuinely useful.
-
-Also, life is absurd enough that taking everything seriously seems like an unnecessary complication.
+Life is absurd enough that taking everything seriously seems like an unnecessary complication.
 
 ## 🤝 Contributions welcome
 

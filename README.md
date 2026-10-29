@@ -119,7 +119,7 @@ Persistence     [██████████] OPERATIONAL
 Life plan       [...........] COMPILING
 ```
 
-**Version:** 42.0  
+**Version:** 4.2  
 **License:** Still figuring that out.  
 **Maintainer:** Me. Unfortunately, I'm also the product owner.
 

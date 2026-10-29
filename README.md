@@ -1,4 +1,4 @@
-# MaruOS v42.0 🖥️
+# MaruOS v4.2 🖥️
 
 > An ongoing attempt to understand how the world works, fix what doesn't, and figure out what the hell I'm doing along the way.
 

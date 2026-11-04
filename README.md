@@ -31,15 +31,6 @@ Sometimes this leads to useful projects. Sometimes it leads to three hours of re
 
 Both outcomes are considered learning.
 
-## 🛠️ Current development environment
-
-- **Business Operations:** Years of experience navigating real-world complexity.
-- **Data & Analytics:** Learning to turn scattered information into something useful.
-- **Python:** Teaching my brain to communicate with computers without taking everything personally.
-- **AI:** Exploring what these machines can actually do, beyond confidently producing nonsense.
-- **Automation:** My long-term plan to stop doing manually what a computer could do instead.
-- **GitHub:** A place to put the evidence.
-
 ## 🚧 Active issues
 
 | Issue | Status |
@@ -65,48 +56,6 @@ Both outcomes are considered learning.
 Some projects will be useful. Some will be educational. Some may begin with the phrase *"Surely there's a better way to do this."*
 
 Those are usually the dangerous ones.
-
-## 🗺️ Roadmap
-
-- [x] Spend years learning how real businesses work.
-- [x] Become professionally qualified to recognize operational chaos.
-- [x] Decide to learn how to build the solutions, too.
-- [x] Open GitHub and discover there is an entire ecosystem of things I don't know.
-- [ ] Build projects that connect business problems with technology.
-- [ ] Get good enough at Python to stop negotiating with it.
-- [ ] Turn curiosity into useful, working solutions.
-- [ ] Achieve financial freedom.
-- [ ] Close a browser tab without opening two more.
-- [ ] Figure out what I'm doing with my life.
-
-**Final milestone:** TBD. Requirements keep changing.
-
-## 🐛 Known bugs
-
-- Excessive curiosity.
-- Chronic questioning of things everyone else seems willing to accept.
-- Inability to leave an interesting problem alone.
-- Side quests disguised as productive research.
-- An unreasonable belief that most things could be organized better.
-- Occasional attempts to solve existential problems with spreadsheets.
-
-**Workaround:** Humor, persistence, and occasionally remembering to eat.
-
-## 📜 Development philosophy
-
-Life is absurd enough that taking everything seriously seems like an unnecessary complication.
-
-## 🤝 Contributions welcome
-
-If you enjoy practical problem-solving, curious minds, unconventional questions, and laughing at the occasional spectacular failure, we'll probably get along.
-
-If you know a better way to do something, tell me.
-
-If you know why something works, even better.
-
-If you know how to make a computer do it for me, we should talk.
-
----
 
 ### System status
 

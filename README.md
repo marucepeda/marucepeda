@@ -46,27 +46,27 @@ Both outcomes are considered learning.
 
 *Priority levels are subject to change following new discoveries, unexpected curiosity, or a particularly interesting rabbit hole.*
 
-## 🧪 Things I'm currently experimenting with
+## 🧪 Projects & ongoing experiments
 
-- Data analysis and practical business intelligence.
-- Python, APIs, and software development.
-- AI applications and workflow automation.
-- Turning years of operational experience into technical skills.
+### OpsToData - [website](https://opstodata.com/)
 
-Some projects will be useful. Some will be educational. Some may begin with the phrase *"Surely there's a better way to do this."*
+Exploring the intersection of business operations, data, and AI. Trying to make information useful, processes less chaotic, and spreadsheets less powerful than they think they are.
 
-Those are usually the dangerous ones.
+`Status: Under construction. So is the business model.`
 
-### System status
+### World Cup AI Predictor 2026 - [GitHub repository](https://github.com/marucepeda/World-Cup-AI)
 
-```text
-Curiosity       [██████████] 100%
-Open projects   [██████████] TOO MANY
-Coffee          [??????????] DEPENDS
-Existential bugs[██████████] BY DESIGN
-Persistence     [██████████] OPERATIONAL
-Life plan       [...........] COMPILING
-```
+A Python-based attempt to bring data and machine learning into football predictions. The project predicts matches; history takes care of humiliating it.
+
+`Status: Training. Emotional damage included.`
+
+### Rodamos - [Live MVP](https://marucepeda.github.io/Rodamos/)
+
+A cycling project exploring ways to bring group rides, routes, schedules, and meeting points together. Less scrolling, more riding. In theory.
+
+`Status: Looking for a way out of the planning stage.`
+
+---
 
 **Version:** 4.2  
 **License:** Still figuring that out.  

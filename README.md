@@ -31,21 +31,6 @@ Sometimes this leads to useful projects. Sometimes it leads to three hours of re
 
 Both outcomes are considered learning.
 
-## 🚧 Active issues
-
-| Issue | Status |
-|---|---|
-| `#001` — Achieve financial freedom | In progress |
-| `#002` — Become an AI Solutions Engineer | Building |
-| `#003` — Turn seventeen interests into one coherent career | Needs investigation |
-| `#004` — Finish existing projects before starting new ones | Won't fix? |
-| `#005` — Understand everything | Scope creep |
-| `#006` — Build a peaceful, functional home | Dirt keeps getting in |
-| `#007` — Learn to rest without turning it into a project | Backlog |
-| `#008` — Figure out life | Open since inception |
-
-*Priority levels are subject to change following new discoveries, unexpected curiosity, or a particularly interesting rabbit hole.*
-
 ## 🧪 Projects & ongoing experiments
 
 ### OpsToData - [website](https://opstodata.com/)
